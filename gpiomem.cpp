@@ -1,3 +1,11 @@
+//
+// Simple GPIO memory-mapped example by Snarky (github.com/jwatte)
+// build with:
+//  g++ -O1 -g -o mem gpiomem.cpp -Wall -std=gnu++17
+// run with:
+//  sudo ./mem
+//
+//
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
